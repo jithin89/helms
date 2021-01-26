@@ -1,0 +1,13 @@
+apiVersion: v1
+appVersion: 6.4.2
+description: EFK stack
+keywords:
+- elasticsearch
+- kibana
+- fluent-bit
+- filebeat
+- metricbeat
+- events
+- logs
+name: efk
+version: 0.4.1
